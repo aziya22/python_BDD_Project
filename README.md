@@ -1,20 +1,28 @@
 # Python Behave BDD Framework
 <br>
+<br>
 This is a BDD automation framework developed on Selenium and Python Behave. Sample test side used in this project is - https://www.saucedemo.com/
+<br>
 <br>
 <b>Page Object Model(POM)</b> is followed in this framework
 <br>
-pages folder contains the elements and corresponding actions of the pages
 <br>
-features folder contains steps folder which has all the test files and also the feature files.
+<b>pages</b> folder contains the elements and corresponding actions of the pages
 <br>
-configuration directory contains the configuration files
 <br>
-drivers directory contains the chrome and firefox driver for mac
+<b>features</b> folder contains steps folder which has all the test files and also the feature files.
 <br>
-requirements.txt file contains all the python packages needed to run this framework
 <br>
-reports directory contains the json files generated with allure reports
+<b>configuration</b> directory contains the configuration files
+<br>
+<br>
+<b>drivers</b> directory contains the chrome and firefox driver for mac
+<br>
+<br>
+<b>requirements.txt</b> file contains all the python packages needed to run this framework
+<br>
+<br>
+<b>reports</b> directory contains the json files generated with allure reports
 <br>
 
 ### Commands to run the tests
