@@ -1,7 +1,9 @@
 # Python Behave BDD Framework
 <br>
 <br>
-This is a BDD automation framework developed on Selenium and Python Behave. Sample test side used in this project is - https://www.saucedemo.com/
+This is a BDD automation framework developed on Selenium and Python Behave. 
+<br>
+Sample test site used in this project is -<b> https://www.saucedemo.com/ </b>
 <br>
 <br>
 <b>Page Object Model(POM)</b> is followed in this framework
